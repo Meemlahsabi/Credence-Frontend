@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "uiux/nav-active-state"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "uiux/nav-active-state": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "uiux/nav-active-state"
+  ]
+}
